@@ -41,5 +41,8 @@
     "uglify-js": "^2.7.4",
     "webpack": "^1.13.1"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
 }
