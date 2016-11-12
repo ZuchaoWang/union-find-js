@@ -38,8 +38,8 @@
     "karma-webpack": "^1.7.0",
     "phantomjs-prebuilt": "^2.1.7",
     "shx": "^0.1.4",
+    "uglify-js": "^2.7.4",
     "webpack": "^1.13.1"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
